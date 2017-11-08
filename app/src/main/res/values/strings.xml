@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LayoutPlayspace</string>
+    <string name="NileNight">Nile at Night</string>
+    <string name="upload">upload</string>
 </resources>

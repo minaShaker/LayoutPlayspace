@@ -3,6 +3,8 @@ package com.example.android.layoutplayspace;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+/*TODO add buttons to change the image*/
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
